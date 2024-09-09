@@ -17,6 +17,7 @@ Here are some ideas to get you started:
     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&color=timeGradient&text=Welcome%20to&animation=fadeIn&fontColor=ffffff&fontAlign=70&fontAlignY=40&fontSize=70&desc=Han's%20Github&descSize=50&descAlign=76" />
   </a>
   </br></br><a>$\bf{\huge{\color{#ffcfee}₍ᐢ..ᐢ₎⊹☆.。.:・°☆ ｡+.｡☆ﾟ₍ᐢ..ᐢ₎☆.。.:・°☆ ｡+.｡☆ﾟ₍ᐢ..ᐢ₎}}$</a></br></br>
+  ![rabbit-remove](https://github.com/user-attachments/assets/299f1071-3735-4b44-9b0e-69bd8324c46c)
   <a href="https://github-readme-stats.vercel.app">
     <img src="https://github-readme-stats.vercel.app/api?username=Hanrabbit06&show_icons=true&title_color=FF7CE2&text_color=787878&border_radius=15&bg_color=00000000&icon_color=FF7CE2" />
   </a>
