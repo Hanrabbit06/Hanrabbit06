@@ -12,7 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&color=timeGradient&text=Welcome%20to&animation=fadeIn&fontColor=ffffff&fontAlign=70&fontAlignY=40&fontSize=70&desc=Han's%20Github&descSize=50&descAlign=76)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanrabbit06&show_icons=true&title_color=FF7CE2&text_color=787878&border_radius=15&bg_color=00000000&icon_color=FF7CE2)
-
-₍ᐢ..ᐢ₎⊹☆.。.:*・°☆ ｡+.｡☆ﾟ₍ᐢ..ᐢ₎☆.。.:*・°☆ ｡+.｡☆ﾟ₍ᐢ..ᐢ₎⊹☆.。.:*・°☆ ｡+.｡☆ﾟ₍ᐢ..ᐢ₎☆.。.:*・°☆ ｡+.｡☆ﾟ₍ᐢ..ᐢ₎⊹☆.。.:*・°☆ ｡+.｡☆ﾟ₍ᐢ..ᐢ₎
+<p align="center" >
+  <a href="https://capsule-render.vercel.app">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&color=timeGradient&text=Welcome%20to&animation=fadeIn&fontColor=ffffff&fontAlign=70&fontAlignY=40&fontSize=70&desc=Han's%20Github&descSize=50&descAlign=76" />
+  </a>
+</p>
+<p align="center" >
+  <a href="https://github-readme-stats.vercel.app">
+    <img src="https://github-readme-stats.vercel.app/api?username=Hanrabbit06&show_icons=true&title_color=FF7CE2&text_color=787878&border_radius=15&bg_color=00000000&icon_color=FF7CE2" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,spring,java,react,php,kotlin,py,c,cpp,cs,git,unity&perline=5"/>
+  </a>
+</p>
+</br><p align="center">$\bf{\huge{\color{#ffcfee}₍ᐢ..ᐢ₎⊹☆.。.:・°☆ ｡+.｡☆ﾟ₍ᐢ..ᐢ₎☆.。.:・°☆ ｡+.｡☆ﾟ₍ᐢ..ᐢ₎}}$</p>
