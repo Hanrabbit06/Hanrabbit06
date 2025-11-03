@@ -24,7 +24,10 @@ Here are some ideas to get you started:
   </br></br><a>$\bf{\huge{\color{#ffcfee}₍ᐢ..ᐢ₎☆ ｡+.｡☆ﾟskill☆.。.:・°☆₍ᐢ..ᐢ₎}}$</a></br></br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,spring,java,react,php,kotlin,py,c,cpp,cs,git,unity&perline=5"/>
-  </a>--!>
+  </a>
+  </br></br><a>$\bf{\huge{\color{#ffcfee}₍ᐢ..ᐢ₎⊹☆.。.:・°☆ ｡+.｡☆ﾟ₍ᐢ..ᐢ₎☆.。.:・°☆ ｡+.｡☆ﾟ₍ᐢ..ᐢ₎}}$</a></br></br>
+</p>
+  --!>
   <!--
 **Hanrabbit06/Hanrabbit06** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 -->
@@ -73,16 +76,4 @@ Here are some ideas to get you started:
     ₍ᐢ..ᐢ₎⊹☆.。.:・°☆ ｡+.｡☆ﾟ₍ᐢ..ᐢ₎☆.。.:・°☆ ｡+.｡☆ﾟ₍ᐢ..ᐢ₎
   </span>
 </p>
-
-<!-- 추가 추천 섹션 -->
-<p align="center" style="line-height:1.6;">
-  🔭 <b>Currently Working On</b>: Personal Portfolio Website, Open Source Contribution<br>
-  🌱 <b>Learning</b>: Advanced React Patterns, Kotlin Multiplatform<br>
-  💬 <b>Ask Me About</b>: Java, Spring, Node.js, React<br>
-  📫 <b>Contact Me</b>:
-  <a href="mailto:han.email@gmail.com">✉️ Gmail</a> |
-  <a href="https://www.linkedin.com/in/hanrabbit06">🔗 LinkedIn</a>
-</p>
-
-  </br></br><a>$\bf{\huge{\color{#ffcfee}₍ᐢ..ᐢ₎⊹☆.。.:・°☆ ｡+.｡☆ﾟ₍ᐢ..ᐢ₎☆.。.:・°☆ ｡+.｡☆ﾟ₍ᐢ..ᐢ₎}}$</a></br></br>
-</p>
+  
